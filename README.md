@@ -18,7 +18,8 @@ If you are looking to cite our entire dataset collection, please use the followi
 
 | Dataset Description | Related Publication | Zenodo DOI |
 |---------------------|---------------------|------------|
-| Dilatometry and phase fraction data for bainitic transformation kinetics | "Title of Paper A", *Journal*, Year | [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567) |
+| Dilatometry and phase fraction data for bainitic transformation kinetics | "Modeling the bainite transformation kinetics for
+different cooling conditions and carbon concentrations", *Journal*, Year | [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567) |
 | Mechanical properties vs. heat treatment analysis | "Title of Paper B", *Journal*, Year | [10.5281/zenodo.2345678](https://doi.org/10.5281/zenodo.2345678) |
 | High-angle grain boundary fraction and microstructural image set | "Title of Paper C", *Journal*, Year | [10.5281/zenodo.3456789](https://doi.org/10.5281/zenodo.3456789) |
 | Symbolic regression models for predicting UEL | "Title of Paper D", *Journal*, Year | [10.5281/zenodo.4567890](https://doi.org/10.5281/zenodo.4567890) |
