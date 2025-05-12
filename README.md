@@ -25,7 +25,7 @@ If you are looking to cite our entire dataset collection, please use the followi
 |Hardness data| |  |
 
 
-> If you are unsure which dataset you need, feel free to contact us via email or raise an issue in this repository.
+> If you need more information about a dataset, feel free to contact us via email or raise an issue in this repository.
 
 ---
 
