@@ -53,28 +53,3 @@ BibTeX:
   url          = {https://doi.org/10.5281/zenodo.9999999}
 }
 -->
-```
-
----
-
-## 🧪 About the Project
-
-This catalog supports our research in understanding the microstructure–property–processing relationships in carbide-free bainitic steels. Datasets include dilatometry measurements, mechanical testing results, microscopy analyses, and machine learning model outputs.
-
-For details on the experimental procedures or computational methods, refer to the respective publications listed above.
-
----
-
-## 🛠 License
-
-All datasets are shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license unless stated otherwise.
-
----
-
-## 👤 Maintainer
-
-**Bernd Schuscha**  
-Materials Center Leoben / Montanuniversität Leoben  
-[Contact](mailto:bernd.schuscha@unileoben.ac.at)
-
----
