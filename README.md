@@ -21,7 +21,7 @@ If you are looking to cite our entire dataset collection, please use the followi
 
 | Dataset Description | Related Publication | Zenodo DOI |
 |---------------------|---------------------|------------|
-|Bainite start temperatures | "Predictive Modeling of the Bainite Start Temperature using Bayesian Inference", *Acta Materilia*, 2025 [[10.5281/zenodo.1234567](10.1016/j.actamat.2025.121131](https://doi.org/10.1016/j.actamat.2025.121131))](https://doi.org/10.5281/zenodo.1234567) | [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567) |
+|Bainite start temperatures | "Predictive Modeling of the Bainite Start Temperature using Bayesian Inference", *Acta Materilia*, 2025 [10.1016/j.actamat.2025.121131](https://doi.org/10.1016/j.actamat.2025.121131) | [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567) |
 |Phase fraction data and start temperatures| "Physics-Informed Probabilistic Modeling of Mechanical Qualities in isothermal Carbide free bainite steels", *Journal*, Year | [githubrepo](https://github.com/BerndSchuscha/bainite_boundaries) |
 |Dilatometry and phase fraction data for bainitic transformation kinetics | "Modeling the bainite transformation kinetics for different cooling conditions and carbon concentrations", *Journal*, Year | [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567) |
 |Mechanical Porperties from our own and literature data | |  |
